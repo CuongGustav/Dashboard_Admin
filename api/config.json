@@ -1,0 +1,223 @@
+{
+    "KVM10111": {
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE",
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    },
+    "Dev.Startup.Landing.Page (2.52)": {
+        "cpu_threshold": 90,
+        "ram_threshold": 90,
+        "disk_threshold": 99,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    },
+    "Dev.KenTool": {
+        "cpu_threshold": 90,
+        "ram_threshold": 90,
+        "disk_threshold": 99,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    },
+    "Dev.BookStoreAPI (2.64)": {
+        "cpu_threshold": 90,
+        "ram_threshold": 90,
+        "disk_threshold": 99,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    },
+    "Prod-AMS-VietNam": {
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAUetZB04/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VGcpPGuxLxdMwRPQLEGe0biEAyAfZn8CNwV988mkzYc"
+        ]
+    },
+    "Prod-Video-portal": {
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAUetZB04/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VGcpPGuxLxdMwRPQLEGe0biEAyAfZn8CNwV988mkzYc"
+        ]
+    },
+    "Dev.Asobi-No-Gakkou (2.67)": {
+        "cpu_threshold": 90,
+        "ram_threshold": 90,
+        "disk_threshold": 99,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    },
+    "Prod-Planka": {
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAUetZB04/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VGcpPGuxLxdMwRPQLEGe0biEAyAfZn8CNwV988mkzYc"
+        ]
+    },
+    "CC API Health Check (2.74)": {
+        "cpu_threshold": 90,
+        "ram_threshold": 90,
+        "disk_threshold": 99,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    },
+    "Prod-Nginx.Proxy.Manager": {
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAUetZB04/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VGcpPGuxLxdMwRPQLEGe0biEAyAfZn8CNwV988mkzYc"
+        ]
+    },
+    "KVM105": {
+        "cpu_threshold": 90,
+        "ram_threshold": 90,
+        "disk_threshold": 90,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    },
+    "Prod-AMS-japan": {
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAUetZB04/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VGcpPGuxLxdMwRPQLEGe0biEAyAfZn8CNwV988mkzYc"
+        ]
+    },
+    "Prod-RMS": {
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAUetZB04/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VGcpPGuxLxdMwRPQLEGe0biEAyAfZn8CNwV988mkzYc"
+        ]
+    },
+    "Prod-Confluence": {
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAUetZB04/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VGcpPGuxLxdMwRPQLEGe0biEAyAfZn8CNwV988mkzYcE"
+        ]
+    },
+    "KVM104": {
+        "cpu_threshold": 90,
+        "ram_threshold": 90,
+        "disk_threshold": 90,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    },
+    "Node.Jenkins.07": {
+        "cpu_threshold": 90,
+        "ram_threshold": 90,
+        "disk_threshold": 99,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    },
+    "Node.Jenkins.04": {
+        "cpu_threshold": 90,
+        "ram_threshold": 90,
+        "disk_threshold": 99,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    },
+    "Prod-Syslog-Ng": {
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAUetZB04/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VGcpPGuxLxdMwRPQLEGe0biEAyAfZn8CNwV988mkzYc"
+        ]
+    },
+    "Prod-API-Audit (2.75)": {
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAUetZB04/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=VGcpPGuxLxdMwRPQLEGe0biEAyAfZn8CNwV988mkzYc"
+        ]
+    },
+    "Dev.Incubator-iq (2.162)": {
+        "cpu_threshold": 90,
+        "ram_threshold": 90,
+        "disk_threshold": 99,
+        "cpu_count_threshold": 2,
+        "ram_count_threshold": 2,
+        "disk_count_threshold": 2,
+        "google_chat_webhooks": [
+            "https://chat.googleapis.com/v1/spaces/AAAAbw_ukvc/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=uvQ-_oel2t7t6Ncu4ZwzgbJqJCtBGmhbJ-hozZ7iIXE"
+        ]
+    }
+}
